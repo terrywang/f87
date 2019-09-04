@@ -20,6 +20,7 @@ BMW F87 M2 Coupe from [newTIS.info](https://newtis.info)
 AUDM
 
 iDrive Driver Profile export file format
+Reference file -> [`bimmer.mpd`](data/bimmer.mpd)
 
 N55B30T0 Specs
 
