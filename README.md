@@ -49,4 +49,5 @@ M2 "M Design Icons" promotion materials 2015
 M2 production statistics
 - [M2 N55 Production (MY2016 to MY2018)](https://f87.bimmerpost.com/forums/showthread.php?t=1404565)
 
-Source of truth - [M2 (F87) at Bimmerpost](https://f87.bimmerpost.com/forums/showthread.php?t=1201088)
+## Source of truth
+[M2 (F87) at Bimmerpost](https://f87.bimmerpost.com/forums/showthread.php?t=1201088)
