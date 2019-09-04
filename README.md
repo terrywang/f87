@@ -46,8 +46,32 @@ AUDM
 
 M2 "M Design Icons" promotion materials 2015
 
-M2 production statistics
+### M2 production statistics
 - [M2 N55 Production (MY2016 to MY2018)](https://f87.bimmerpost.com/forums/showthread.php?t=1404565)
+
+### M2 with N55B30T0 delivery in Australia (AUDM)
+
+breakdowns by model (total - 1352)
+
+| pre-LCI| LCI    |
+| :----: | :----: |
+| 807  | 545    |
+
+breakdowns by transmission
+
+pre-LCI
+| Manual | DCT    |
+| :----: | :----: |
+| 20.7%  | 79.3%  |
+| 167    | 640    |
+
+LCI
+| Manual | DCT    |
+| :----: | :----: |
+| 16.7%  | 83.3%  |
+| 91     | 454    |
+
+[Data Source](https://f87.bimmerpost.com/forums/showthread.php?t=1404565&page=12)
 
 ## Source of truth
 [M2 (F87) at Bimmerpost](https://f87.bimmerpost.com/forums/showthread.php?t=1201088)
