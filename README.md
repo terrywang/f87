@@ -53,19 +53,21 @@ M2 "M Design Icons" promotion materials 2015
 
 breakdowns by model (total - 1352)
 
-| pre-LCI| LCI    |
-| :----: | :----: |
-| 807  | 545    |
+| pre-LCI| LCI   |
+| :----: | :----:|
+| 807    | 545   |
 
 breakdowns by transmission
 
 pre-LCI
+
 | Manual | DCT    |
 | :----: | :----: |
 | 20.7%  | 79.3%  |
 | 167    | 640    |
 
 LCI
+
 | Manual | DCT    |
 | :----: | :----: |
 | 16.7%  | 83.3%  |
