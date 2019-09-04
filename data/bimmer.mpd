@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bmwExportData>
+<signedContent>
+<header>
+  <date>2019-09-04T16:03:30</date>
+  <version>1</version>
+  <username>Terry</username>
+  <vin>V818818</vin>
+  <i-step>F020-16-07-506</i-step>
+</header>
+<body>
+<securityContainer type="vehicle" securityLevel="1">
+ENCODED_BINARY</securityContainer>
+</body>
+</signedContent>
+<signature>ENCODED_BINARY</signature>
+</bmwExportData>
