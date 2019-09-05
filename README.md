@@ -1,16 +1,17 @@
 # BMW F87 M2
 
-> NOTE: This repo includes info of original (pre-LCI) F87 and F87 LCI, M2 Competition is not included as it has a detuned S55 from its big bro F80 M3 / F82 M4.
+> NOTE: This repo includes info of original (pre-LCI) F87 and F87 LCI, M2 Competition is **NOT** included as it has a detuned S55 (and other `///M` gadgets) from its big bro F80 M3 / F82 M4.
 
 ## Technical Information
 
-Owner's Manual
+### Owner's Manual
 
-Technical Specs
+### Technical Specs
 
-Technical Training
+### Technical Training
 
-BMW F87 M2 Coupe from [newTIS.info](https://newtis.info)
+### BMW F87 M2 Coupe from [newTIS.info](https://newtis.info)
+
 - [Repair Manuals and Technical Data](https://newtis.info/tisv2/a/en/f87-m2-cou/repair-manuals/) 
 - Wiring Diagrams and Functional Description, Electrical Components / Connectors
 - Non-electrical diagnosis
@@ -19,12 +20,15 @@ BMW F87 M2 Coupe from [newTIS.info](https://newtis.info)
 
 AUDM
 
-iDrive Driver Profile export file format
+
+### iDrive Driver Profile export file format
 Reference file -> [`bimmer.mpd`](data/bimmer.mpd)
 
-N55B30T0 Specs
 
-HU-ServiceManager by BMWTools.info
+### N55B30T0 Product Informatino (Technical Training)
+
+
+### HU-ServiceManager by BMWTools.info
 
 Local (Head Unit) service history  manipulator written in Java.
 
