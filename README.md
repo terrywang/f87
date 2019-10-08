@@ -25,12 +25,12 @@ AUDM
 Reference file -> [`bimmer.mpd`](data/bimmer.mpd)
 
 
-### N55B30T0 Product Informatino (Technical Training)
+### N55B30T0 Product Information (Technical Training)
 
 
 ### HU-ServiceManager by BMWTools.info
 
-Local (Head Unit) service history  manipulator written in Java.
+Local (Head Unit) service history manipulator written in Java.
 
 
 ## F87 M2 cold start recording
@@ -45,7 +45,7 @@ Local (Head Unit) service history  manipulator written in Java.
 
 ## BMW M2 Vehicle Parts, Part numbers and Diagrams
 
-AUDM
+AUDM (Australian Domestic Market)
 
 - M2 vehicle parts
 
