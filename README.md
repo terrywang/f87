@@ -8,7 +8,11 @@
 
 ### Technical Specs
 
+[BMW M2 Technical Specs (OCT 2015)](https://f87.bimmerpost.com/forums/showthread.php?t=1201088)
+
 ### Technical Training
+
+[BMW M2 Technical Training (US and non US verion)](https://f87.bimmerpost.com/forums/showthread.php?t=1201088)
 
 ### BMW F87 M2 Coupe from [newTIS.info](https://newtis.info)
 
