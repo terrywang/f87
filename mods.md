@@ -12,6 +12,7 @@ Performance, reliability (preventative) mods
 - FTP Motorsport boost pipe
 - FTP Motorsport intake pipe (turbo inlet pipe)
 - Turner Motorsport [F87 M2 Oil Catch Can Kit](https://www.turnermotorsport.com/p-588375-f87-m2-catch-can-kit/)
+- Turner Titanium Magnetic Oil Drain Plug (M12x1.5) [Review](https://f87.bimmerpost.com/forums/showthread.php?t=1830240) by [@F87Source](https://f87.bimmerpost.com/forums/member.php?u=396529)
 
 Diagram
 
@@ -19,7 +20,6 @@ Diagram
 
 ## List of mods to be done
 
-- Turner Titanium Magnetic Oil Drain Plug (M12x1.5) [Review](https://f87.bimmerpost.com/forums/showthread.php?t=1830240) by [@F87Source](https://f87.bimmerpost.com/forums/member.php?u=396529)
 - Turner Titanium Magnetic DCT Oil Drain Plug (M24x1.5)
 - Turner Titanium Magnetic Differential Drain Plug (M22x1.5)
 - FMIC - Front Mounted Intercooler. CSF 8115 High Performance Intercooler, VRSF Competition HD or Wagner Competition EVO1.
