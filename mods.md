@@ -24,6 +24,7 @@ Diagram
 - Turner Titanium Magnetic DCT Oil Drain Plug (M24x1.5)
 - Turner Titanium Magnetic Differential Drain Plug (M22x1.5)
 - FMIC - Front Mounted Intercooler. CSF 8115 High Performance Intercooler, VRSF Competition HD or Wagner Competition EVO1.
-- Rein Aluminum Coolant Hose (AKA Micky Mouse) Flange: [Rein CHC0609](https://www.fcpeuro.com/products/bmw-aluminum-coolant-hose-flange-rein-chc0609). [Review by @F87Source](https://f87.bimmerpost.com/forums/showthread.php?t=1773412)
+- [ECS Tuning Aluminum Coolant Hose Flange Kit](https://www.ecstuning.com/b-ecs-parts/ecs-performance-coolant-outlet-hose-kit/004503la01/). Reviewed by [@F87Source](https://f87.bimmerpost.com/forums/showthread.php?t=1773412).
+- ~~Rein Aluminum Coolant Hose (AKA Micky Mouse) Flange: [Rein CHC0609](https://www.fcpeuro.com/products/bmw-aluminum-coolant-hose-flange-rein-chc0609). [Review by @F87Source](https://f87.bimmerpost.com/forums/showthread.php?t=1773412)~~
 - Coolant return hose (buy additional backup replacement)
 - [Malo Industries](https://www.maloindustries.com/products/n54-and-n55-crank-seal-protection-plate-1) Crank Seal Protection Kit. [Review by @F87Source for N55](https://f87.bimmerpost.com/forums/showthread.php?t=1807187)
